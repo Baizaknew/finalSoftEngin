@@ -1,0 +1,10 @@
+C:\VisualStudioProjects\rock_paper_scissors_game\bin\Debug\rock_paper_scissors_game.exe.config
+C:\VisualStudioProjects\rock_paper_scissors_game\bin\Debug\rock_paper_scissors_game.exe
+C:\VisualStudioProjects\rock_paper_scissors_game\bin\Debug\rock_paper_scissors_game.pdb
+C:\VisualStudioProjects\rock_paper_scissors_game\obj\Debug\rock_paper_scissors_game.csproj.AssemblyReference.cache
+C:\VisualStudioProjects\rock_paper_scissors_game\obj\Debug\rock_paper_scissors_game.Game_Form.resources
+C:\VisualStudioProjects\rock_paper_scissors_game\obj\Debug\rock_paper_scissors_game.Properties.Resources.resources
+C:\VisualStudioProjects\rock_paper_scissors_game\obj\Debug\rock_paper_scissors_game.csproj.GenerateResource.cache
+C:\VisualStudioProjects\rock_paper_scissors_game\obj\Debug\rock_paper_scissors_game.csproj.CoreCompileInputs.cache
+C:\VisualStudioProjects\rock_paper_scissors_game\obj\Debug\rock_paper_scissors_game.exe
+C:\VisualStudioProjects\rock_paper_scissors_game\obj\Debug\rock_paper_scissors_game.pdb
